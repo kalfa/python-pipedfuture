@@ -1,0 +1,4 @@
+MANIFEST
+*.egg-info
+.tox
+__pycache__
